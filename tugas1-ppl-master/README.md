@@ -1,5 +1,5 @@
 # Simple Cart App
-Aplikasi cart sederhana. Disadur dan dimodifikasi dari [https://github.com/kodeid-resources/simple-cart-app](https://github.com/kodeid-resources/simple-cart-app)
+Aplikasi cart sederhana. Disadur dan dimodifikasi dari [https://github.com/Hanaannn/ppl/tree/master/tugas1-ppl-master](https://github.com/Hanaannn/ppl/tree/master/tugas1-ppl-master)
 
 # Acknowledgment
 [Hanaannn](https://github.com/hanaannn)
